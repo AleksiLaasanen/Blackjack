@@ -1,0 +1,11 @@
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+c:\users\aleksi.laasanen\documents\visual studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\aleksi.laasanen\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.Resource1.resources
+C:\Users\aleksi.laasanen\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.SplashForm.resources
